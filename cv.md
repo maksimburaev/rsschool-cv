@@ -13,8 +13,7 @@ Angular + NGRX
 
 
 HTML/CSS3
-⭐⭐⭐⭐⭐
-
+1
 Node.JS/Express/KOA
 ⭐⭐⭐⭐
 
