@@ -7,7 +7,7 @@ I'm an enthusiastic and detail-oriented Frontend Software Engineer seeking an en
 
 Skills
 Javascript/ES5/ES6
-⭐⭐⭐⭐⭐
+
 
 Angular + NGRX
 ⭐⭐⭐⭐⭐
@@ -23,7 +23,7 @@ Bootstrap/JQUERY
 
 Education
 M.S. IN COMPUTER SCIENCE
-University of Texas - Dallas, TX
+University of Texas - Dallas, ggh
 August 2017Present
 B.s. in Information Technology
 CUNY Queens College - Flushing, NY
