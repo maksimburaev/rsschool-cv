@@ -10,7 +10,7 @@ Javascript/ES5/ES6
 
 
 Angular + NGRX
-⭐⭐⭐⭐⭐
+
 
 HTML/CSS3
 ⭐⭐⭐⭐⭐
